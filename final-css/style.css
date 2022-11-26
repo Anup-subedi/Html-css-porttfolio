@@ -1,0 +1,215 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Alata', sans-serif;
+  color: #2C3333;
+  font-size: 1em;
+}
+
+h1 {
+  margin: 0 auto;
+font-family: 'Oleo Script Swash Caps', cursive;
+  
+  font-size: 1.8em;
+  color: #2C3333;
+  padding-top:35px;
+
+}
+
+
+.ask{
+  font-family: 'Righteous', cursive;
+    font-size: 0.8rem;
+     }
+
+ .rule
+ {
+   margin-top:50px;
+   margin-bottom:50px;
+   border-style: none;
+    border-top-style:dotted;
+    border-color:#F2F3F1;
+    border-width:7px;
+    width: 7%
+ }
+
+.top-container {
+  background-color: #EDFFEA;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 0;
+
+
+}
+.main{
+  padding-top: 25px;
+  margin-top:60px;
+
+}
+
+.cloud-container {
+  position: absolute;
+  left: 50px;
+  opacity: 0.03;
+}
+
+.cloud-container2 {
+  position: absolute;
+  right: 30px;
+  bottom: 160px;
+  opacity: 0.02;
+}
+
+.oo {
+  color: #A434F1
+}
+
+.middle-container{
+  position: relative;
+  margin-top: 40px;
+  padding-top: 50px;
+  padding-left:7px;
+  padding-right: 7px;
+
+}
+.shape1{
+  position: absolute;
+  left:73.5vw;
+  top:0;
+  opacity: 0.05;
+}
+
+
+.shape3{
+  position: absolute;
+  right:80vw;
+  top: 10vw;
+  opacity: 0.08;
+
+}
+
+.hi
+{
+
+  font-size: 2rem;
+  margin-top: 1px;
+  margin-bottom: 0;
+   font-family: 'Zen Maru Gothic', sans-serif;
+
+
+}
+.code-img
+{
+  width:25%;
+  float:left;
+  margin-right: 25px;
+}
+.leader
+{
+  width:25%;
+  float:right;
+  margin-left: 25px;
+}
+.para
+{
+  display: inline-block;
+  width:70%;
+  font-size:1rem;
+}
+.h2s
+{
+  font-size: 2rem;
+  font-family: 'Zen Maru 
+ Gothic', sans-serif;
+  
+}
+.h3s
+{
+  margin-top:15px;
+}
+.coding
+{
+  width:50%;
+  margin:75px auto; 
+}
+ .p2{
+   text-align: left;
+   line-height: 1.5;
+ }
+.p3{
+  text-align: right;
+  line-height: 1.5;
+}
+.leadership
+{  
+  width:50%;
+  margin:75px auto; 
+  
+}
+.Problem
+{  
+  width:50%;
+  margin:75px auto; 
+  
+}
+.brain-img
+{
+  width:25%;
+  float:left;
+  margin-right: 25px;
+}
+
+
+.btn
+{
+  width:100px;
+  margin:0 auto;
+
+}
+
+.cbutton{
+  border: solid #000;
+  border-radius: 9999px;
+  color: #000;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+
+.cbutton:hover{
+background-color: #000;
+color: #fff;  
+}
+
+
+
+.anup
+{
+  margin-left:0;
+  margin-right:0;
+  
+
+}
+
+.bottom-container{
+  padding:1px 0;
+  margin-right:0;
+  margin-top:15px;
+  background-color: #47B5FF;
+}
+.cursor
+{
+  cursor:pointer;
+}
+
+.icon1{
+ position:absolute;
+  
+}
+width:200px;
+}
